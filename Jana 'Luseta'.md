@@ -1,0 +1,39 @@
+**Nome**: Jana Ferreira 
+**Nascimento**: 20/02/2002 ~ Atualmente
+**Status**: Viva
+____
+#### Capítulo I – JULGAMENTO
+(2002 ~ 2012) | (0 | 10)
+A minha infância sempre foi marcada por poucas peculiaridades.. a gente não usava nosso sobrenome, minha mãe ela não gostava dizia que era uma maldição do meu bisavô eu nunca gostei do jeito que ela falava.. ela sempre amaldiçoava meu bisavô, dizia que ele tinha feito coisas horríveis, eu por um tempo tinha medo, as histórias que ela contava, até que um dia a gente foi para casa da vó Expedita, eu tinha um pouco de medo dela, pelas histórias que minha mãe contava, eu imaginava alguém agressiva, má, cruel é diabólica mas, era justamente o contrário.. minha vó era um doce de pessoa, apaixonada por café bem forte, minha mãe tinha ido para o funeral do meu avô ele avia morrido de causas naturais. 
+
+A gente passou um bom tempo lá, minha mãe não dizia mas, eu ouvia as conversas escondida, a gente tava passando dificuldades, as contas estavam apertando lá em casa, meu pai e suas apostas estavam criando dividas grandes.. minha mãe estava sobrecarregada com contas e com cuidar de mim.. minha avó ajudou com o que pode, ela sempre foi muito gentil, contava histórias do sertão e como ele era. Até que um dia ela contou do seu pai ([[Lampião]]) eu tinha medo e no início não acreditava, ela contava que ele era um justiceiro, ele roubava dos poderosos e ricos e distribuía aos necessitados, evitava violência e só usava quando precisava, até que ele conheceu minha bisavó Maria, minha bisavó sim era brava, minha vó conta que ela vivia batendo nele mas, não para machucar, era o jeito que ela "brincava" eu entendi que eles viviam em tempos que isso era comum e esse era o jeito que ela mostrava para ele como ela a amava, já ele sempre tratou ela como uma donzela, minha vó sempre dizia que era bonito ver os dois juntos, até que um dia minha bisavó morreu e então [[Lampião]] começou uma caçada intensa, saiu matando um monte de gente, ele não fazia distinção se era pobre ou rico, inocente ou não, minha avó dizia que ele caçava os "Pecadores" até que um dia.. ele foi encontrado morto... Minha mãe sempre dizia para eu nunca perguntar dele, mas eu queria entender, lembro até de uma dela brigar comigo a ponto de me bater onde ela dizia, "O seu bisavó foi uma praga para o Sertão, você é igual a ele e eu odeio isso garota".. aquilo me despedaçou e então ela parou aos poucos de ir na minha avó até que nunca mais voltou...
+___
+#### Capítulo II — VERDADE
+(**2012 ~ 2024**) (**10 | 22**)
+___
+Sabe aquela sensação de você viver em um mundo onde a uma sombra muito maior do que você mesmo? Foi isso o que eu iria viver aparti de agora.
+
+Quando a minha mãe foi embora eu não tinha entendido o porquê disso, eu costumava me enganar dizendo que ela estava voltando, que as coisas voltariam ao normal, nunca voltaram. Minha avó via que eu tava magoada, ela tentava me animar, me ensinava a andar a cavalo, a atirar, a sobreviver no Sertão, porque um dia eu teria...
+
+As histórias sobre meu bisavô nunca pararam, na escola eu era julgada e maltrata.. mas eu nunca cai nas brigas, nunca deixei pisarem em mim e na história da minha família.. doía, muito mas, eu ainda estava lá, e foi assim pensei em amaldiçoar várias vezes as meu bisavô mas, nunca fiz, porque eu era a única que sabia, além da minha avó. Até que um dia depois de eu terminar o ensino médio, depois de eu chegar de mais um linchamento, depois de eu ligar para proteger a memória que minha avó tinha, ela não me recebeu com um "seja bem-vinda de volta [[Luseta]]" mas sim por sirenes, por ambulâncias "algo" tinha matado minha avó, um "cachorro selvagem", eu sabia que não era, minha vó deixou um baú como herança, um baú que contava a história que ela me contou por muitos anos, a história de meu bisavô [[Lampião]] mas, no baú também tinha algumas outras coisas, a espingarda que ele usava, seu facão e um medalhão que ele tinha, nele avia duas fotos, uma da minha avó e a outra de minha bisavó, também tinha alguns textos criptografados eu não conseguia entender até o momento mas, passei algumas semanas estudando e com a ajuda eu consegui descifrar boa parte, nele dizia que Lampião encontrou "pecadores" e foi matando, todos eles tinham vínculo com o "[[Diabo]]", tinha feito "pactos" e aparentemente foi o próprio que transformou minha bisavó em uma criatura onde ele teve que matar ela.. mas, o que mais me incomodou foi as descrições precisas, além de ter uma assinatura [[D3r L0rd]], eu busquei em cada submundo Paranormal sobre esta pessoa, passei anos buscando mais relatos mas, era muito difícil até que os relatos convergiram em um local isolado do sertão, enquanto eu me aproximava mais coisas tentaram me parar, criaturas de sangue, bruxos e até ilusões.. Mas eu sabia que estava no local certo, até que chegou a um ponto onde as criaturas já apareciam mortas, bruxos e grande parte da vegetação já avia sido explorada.. tinha mais alguém aqui comigo.
+___
+##### D3r L0rd?
+(**2018** | **16**)
+___
+O sertão sempre trás surpresas mas, nunca imaginei encontrar alguém que também buscava informações mais verídicas sobre minha família, até que eu encontrei um homem chamado, [[Guilherme Corte]], ele parecia buscar alguém chamado [[Derek Hutchins]] ou como ficou conhecido depois de um evento chamado [[A Exegese]], [[D3r L0rd]], ele aparentemente conheceu meu bisavô e selou ele no seu chapéu, foi isso o que ele traduziu da carta criptografada, ele parecia meio feliz por ter me encontrado, talvez ele estivesse mais perdido do que eu.. a gente começou a se ajudar, ele queria ajudar para encontrar a ilha em que D3r L0rd desapareceu e eu queria encontrar o meu avô de volta, queria trazer ele de volta para seguir mais uma vez a sua vida, eu queria ter alguém para voltar.. nós passamos os nossos próximos anos procurando mais pistas de onde estaria meu bisavô e onde estaria está ilha.. as histórias que ele me contava sobre a [[Corte Amarela]] eram terríveis ele não sabia contar histórias, eu contava as aventuras que meu bisavô teve, sobre o porquê estar neste local isolado, era para encontrar mais vestígios sobre o tal [[Hexatombe]] porém depois de meses vagando nada de anormal apareceu.. a minha busca não deu em nada...
+____
+#### Capítulo III – CAÇADA
+(**2019** ~ **2026** {Atualmente})
+___
+Os meses caçando vestígios sobre o Hexatombe foram frustrantes, o Gui decidiu se separar, buscar mais sobre o Derek enquanto eu decidi buscar mais sobre o meu bisavô, a gente ainda conversava mas ainda muito estranho no início era como se ele se metesse em tudo, ele era um sabichão chato mas, logo o tempo se passou, notei que ele era como um pirralho que quer entender tudo e sempre fica perguntando o "por que?" de tudo, a gente passou contando histórias, se perguntando como era meu bisavô e o D3rLord juntos, ele me contou que queria trazer o D3rLord porque ele falou que voltaria, que alguém o traria de volta e então iria impedir [[Enkil]] de realizar a Calamidade, eu expliquei que queria encontrar meu bisavô para entender o porquê de tudo, e pra mostrar um novo caminho para ele.. a gente ficou próximo, muito próximos.. (segue a famigerada cena de s3xo).
+
+No dia seguinte a gente seguiu caminhos, ele vira e meche aparecia para me ajudar com a busca da [[Coroa do Cangaço]] e eu ajudava ele com a busca do [[Elmo Amaldiçoado]] até que encontramos juntos um possível vestígio da coroa, ele estava na cidade de Coroa Negra, quando eu cheguei na cidade notei que lá era um lugar largado por Deus, aqui avia diversos símbolos de Bruxos, símbolos que faziam alusão ao Capeta, eu segui, entendi que aqui avia um grupo de bruxos poderosos então eu tinha que me mover com cautela...
+
+
+___
+##### DETALHES
+###### Aparência
+![[Jana a Luseta.png]]
+___
+###### Ficha
+[[Luseta]]

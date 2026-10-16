@@ -1,0 +1,1 @@
+um homem que perdeu tudo para a bebida e as drogas, porém quer mudar o rumo de sua vida.. Ele quer ter um recomeço.

@@ -1,0 +1,1 @@
+Sua filha está em estado de coma após uma batida com alguém na estrada, após isso ele vem trabalhando igual Loko para cobrir as despesas do tratamento de sua filha que está em SP junto de sua mãe, ele trabalha tanto que vai ao bar beber com alguns conhecidos.

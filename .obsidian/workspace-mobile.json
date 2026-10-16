@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "d8518bc00c686143",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89acb73dbfe5dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39a91215fe985e9a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Campanhas"
+            }
+          },
+          {
+            "id": "c42e39718143355e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecânicas e Criações.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mecânicas e Criações"
+            }
+          },
+          {
+            "id": "8f2d9c1fa7b76c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noite 3 — Noite dos Loucos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noite 3 — Noite dos Loucos"
+            }
+          },
+          {
+            "id": "914ffbafd6fd97d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inimigos & Boss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inimigos & Boss"
+            }
+          },
+          {
+            "id": "b5b3b26e57bc1312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Senhor Veríssimo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Senhor Veríssimo"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5809b3bdec254031",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d7953b214856f91a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTimeReverse",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1ce4465972744958",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "antes da campanha",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "2cad422164a2a87e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bf620d473f9d7173",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "4db94e1e45cc1455",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "f27b5fa28ef63bb6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "82c63ca9e302c04e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Senhor Veríssimo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "8cab3114e63c4a9f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Yuri Santoro.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "dc003f801dbd3e27",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bar do Jurandir.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      },
+      {
+        "id": "c10210cac6025516",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b5b3b26e57bc1312",
+  "lastOpenFiles": [
+    "Noite 3 — Noite dos Loucos.md",
+    "Coroa Negra.md",
+    "Noite 2 — Tárde do Sete Pele.md",
+    "Inimigos & Boss.md",
+    "Mecânicas e Criações.md",
+    "Luseta.md",
+    "Prompt para criar imagens.md",
+    "Rádio Vale Livre.md",
+    "Transmissão Dia 2.wav",
+    "Noite 1 — Dia dos Pecadores.md",
+    "Hospital Municipal de Coroa Negra.md",
+    "Delegacia.md",
+    "Campanhas.md",
+    "Gabriel Henrique.md",
+    "Delegacia Noite.png",
+    "Delegacia Dia.png",
+    "Coroa do Cangaço.md",
+    "Lor dos Personagens.md",
+    "Bar do Jurandir.md",
+    "Lampião O Cangaceiro.md",
+    "Sæerlig Norato.md",
+    "Luna Lancaster.md",
+    "Jana 'Luseta'.md",
+    "Jana a Luseta.png",
+    "Rádio Serra Alta.md",
+    "Diário de Bordo.md",
+    "file_0000000074e4820eb3b1cac766da1545.png",
+    "file_00000000ae70820eb6384379626ca2fe.png",
+    "file_000000008998820e8d74cac44d424872.png",
+    "file_00000000981c820eaa2c1180d1f2f453.png",
+    "file_00000000e0c4820e91962e453338604d.png",
+    "file_000000007cdc820e855b1a4a2deff0e2.png",
+    "Corvos do Asfalto.md",
+    "Diego 'Mula'.md",
+    "Diego.png",
+    "Sérgio 'Tatu'.md",
+    "Caio 'Bala'.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Sem título.base",
+    "Massacre Serra Alta.mp4",
+    "Arquivos_Radio_Serra_Alta.pdf",
+    "Áudio Porta 4.2.wav",
+    "Áudio Porta 4.3.wav",
+    "Áudio Porta 4.wav",
+    "Áudio Porta 3.wav",
+    "Áudio Porta 2.wav",
+    "Áudio Porta 7.wav",
+    "teste.canvas"
+  ]
+}

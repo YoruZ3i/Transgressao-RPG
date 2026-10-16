@@ -1,0 +1,3 @@
+*Uma marreta banhada em fluidos humanos e enrolada em espinhos foi amaldiçoada 6 vezes, através de 6 sacrifícios humanos, ao longo de 6 rituais de Sangue. Ela foi adorada, admirada e alimentada como um bebê do inferno.*
+
+Uma arma tática corpo a corpo e de duas mãos. Ela causa 2d10 pontos de dano de impacto mais 2d12 pontos de dano de Sangue e tem crítico 20/x4, mas sempre que você empunha ou ataca com a arma, perde 1d6 PV. Quando faz um acerto crítico com essa arma, o alvo deve fazer um teste de Fortitude (DT For). Se falhar, algum osso na parte atingida se quebra, deixando o alvo fraco até receber cuidados prolongados em uma cena de interlúdio. Se ficar fraco novamente por causa desta arma, em vez disso, o alvo fica debilitado.

@@ -1,0 +1,3 @@
+Um Punhal de cabo escuro ornamentada com várias ondas em sua lâmina. 
+
+É uma arma simples corpo a corpo, de uma mão e ágil, que pode ser arremessada em alcance curto. Ela causa 1d4 pontos de dano de perfuração mais 2d10 pontos de dano de Sangue e tem crítico 19/x3. Quando ataca com esta arma, você pode gastar 2 PE. Se fizer isso e acertar o ataque, você recupera 2d10 PV. Qualquer ponto de vida recuperado que exceda seus PV máximos se torna pontos de vida temporários.

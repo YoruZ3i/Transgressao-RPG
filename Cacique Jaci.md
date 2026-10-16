@@ -1,0 +1,3 @@
+Mulher baixa e forte, tem pinturas de cor preta pelo corpo em forma de tentáculos, como símbolos de autoridade, é a única autorizada a se colorir desta maneira. Aparenta ter por volta 60 anos de idade. Seus cabelos são escuros, escorridos com mechas brancas, com heterocromia nos olhos, um de cor preta e o outro branco. Carrega consigo uma garrafa sagrada com simbolos do outro lado, dentro dela há agua do rio, um objeto cultural e poderoso, representando sua consciencia de fardo de vida para com o povo. Sua função é de liderança politica.
+
+* Incisiva, Séria, Leal e de senso familiar

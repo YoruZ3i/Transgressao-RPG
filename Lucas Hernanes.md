@@ -1,0 +1,1 @@
+Um viciado em álcool, ele tenta sair dessa vida porém sempre se vê na mesa junto de seus companheiros de drinks.. ele quer parar mas não consegue.

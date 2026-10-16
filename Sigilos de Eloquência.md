@@ -1,0 +1,7 @@
+Há muitos séculos, ocultistas e outros pesquisadores do paranormal procuram formas controladas de contatar o Outro Lado, e nenhuma se provou tão eficaz quanto os rituais. Com um ritual, você cria uma breve manifestação de um dos elementos na Realidade. Por exemplo, pode fazer um ritual de Sangue para tornar seu corpo mais musculoso ou um ritual de Morte para acelerar o envelhecimento natural de um inimigo. Conjurar um ritual é se comunicar com uma entidade do Outro Lado. Ao transcrever sigilos de eloquência específicos e se concentrar neles, você consegue transmitir uma frase ou pedido. A resposta vem na forma de uma manifestação paranormal — o efeito do ritual. Quanto maior seu nível de exposição paranormal, maior a sua conexão com o Outro Lado e, consequentemente, mais eloquentes podem ser seus rituais, gerando efeitos mais intensos.
+
+Como em qualquer linguagem, uma mesma frase pode ser interpretada de maneiras diferentes. Assim, um mesmo ritual pode resultar em manifestações visualmente diferentes, ainda que com efeitos similares, o que também significa que identificar rituais é um processo complexo.
+
+Os sigilos de eloquência são categorizados pelos conceitos que comunicam, conforme o diagrama abaixo.
+
+![[Screenshot_20260816-040458~2.jpg]]

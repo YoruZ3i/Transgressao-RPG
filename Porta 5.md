@@ -1,0 +1,1 @@
+Você é levado para a [[Sala 5]].

@@ -1,0 +1,17 @@
+**Nome**: Luna Lancaster
+**Nascimento**: ??/??/????
+**Nacionalidade**: ????
+
+A Luna Lancaster é uma entusiasta da tecnologia, desde pequena sempre preferia passar horas na frente de seu antigo console do que brincar de amarelinha na rua com as outras garotas, ela sentia que o mundo online era o método mais fácil para se fazer amigos, sem precisar ter uma conversa olho no olho e toda aquela burocracia chata. 
+Com o passar do tempo ela aprendeu a ir se aperfeiçoando e descobriu o universo mágico da programação, com apenas um computador e uns livros ela conseguiria criar tudo que imaginasse, e as infinitas opções encantaram uma garota de 10 anos com muitas horas de telas. Enquanto ela crescia, sentia-se cada vez mais confiante acerca de suas habilidades com computadores, mesmo que quem a olhasse de fora poderia não ver nada além de uma garota tímida, e de certa forma isso a ajudou em muitos casos, como quando ela conseguiu hackear o número de ser diretor e descobriu que ele andava traindo sua mulher com algumas professoras de seu antigo colégio. Assim, Luna fez questão de ir atrás de um número não rastreável apenas para ameaçar vazar essas novas informações em troca de uma graninha, apenas para depois de uns minutos após o depósito ela mandar as provas para a mulher dele com apenas uma mensagem: “No meio de toda a escuridão há uma lua vigiando tudo, e a Moonlight sabe de tudo…”. A partir dali ela entendeu que poderia fazer uso de seus conhecimentos para benefício próprio. 
+Aos 17 anos ela decidiu se aprofundar mais nas áreas obscuras da internet, se via cada vez mais incluída em algo que não sabia exatamente o que poderia ser, via comentários pela deep web de um tal de “outro lado”, como se algo maligno estivesse sempre a nosso espreita, mas parecia ser tudo apenas devaneios de mentes já consumidas por drogas e solidão. Sempre achou as histórias sobre rituais irreais demais, fictícias demais, mas não podia negar o quanto estava curiosa para saber mais. Enquanto lia ficava cada vez mais assustada, a utilização de cinzas e sangue parecia ser algo constante entre eles, era tudo bizarro demais.
+Mas foi durante uma sala de bate-papo alguns anos mais tarde em algum submundo da internet que ela poderia dizer que sua vida mudaria de um modo estranho. Só se falava sobre os desaparecimentos que estavam acontecendo um atrás do outro, sem pistas, apenas um jogo. Um lugar chamado “Jogos do Anfitrião”, ali comentavam-se sobre ser um tipo de escape run, mas que assim que as pessoas entravam nunca mais eram vistas. Sua curiosidade sempre foi sua maior aliada, mas também sua maior inimiga, então assim que ficou sabendo sobre começou a fazer as suas pesquisas.
+
+bla bla bla diego vai falar oq achei
+
+Enquanto pesquisava algumas de suas diversas telas começaram a ter glitchs, uma de cada vez, piscando em uma sincronia irreal e apagando-se logo em seguida. Luna se sobressaltou, assustada, começou a se levantar devagar, tentando entender como isso seria possível, com todos os seus níveis de segurança era impossível ela ter sido hackeada, ou pelo menos deveria ser.
+De repente, no breu, todas as telas se juntaram numa só imagem, como se todas as telas fossem uma enorme televisão. Uma pessoa, talvez algo, estava sentado numa cadeira rodeada com fios, usando uma máscara de gás com um símbolo. Esse ser ria, uma risada histérica e ao mesmo tempo meio metalizada, como se falasse por meio de algum tipo de modificador de voz.
+___
+#### DETALHES
+###### Aparência
+![[Lana Lancaster.png]]

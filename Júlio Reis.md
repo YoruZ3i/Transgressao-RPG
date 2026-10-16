@@ -1,0 +1,1 @@
+Julio o Homem que perdeu tudo em apostas e vive em dívidas tentando pagar suas dívidas porém gastando boa parte em bebidas.

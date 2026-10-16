@@ -1,0 +1,1 @@
+Sua Ex mulher está querendo divórcio pós Bruno não consegue parar de beber mesmo depois de várias promessas.

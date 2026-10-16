@@ -1,0 +1,3 @@
+Você pode gastar uma ação padrão e 3 PD para fazer uma Pessoa em alcance curto ser tomada por uma onda de prazer insana. O alvo pode fazer um teste de Vontade (DT Pre +5) para evitar. Se falhar, todos os sentidos e alertas biológicos do alvo (como reflexos de urgência ou dor) só transmitem prazer, euforia, alegria intensa e viciante. O alvo perde qualquer senso de autopreservação, ficando indefeso por 1 rodada. 
+
+Pré-requisito: ser o sacrifício do Prazer.

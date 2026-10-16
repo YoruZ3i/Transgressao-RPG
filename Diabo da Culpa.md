@@ -1,0 +1,3 @@
+Você pode gastar uma Ação Padrão e 3 PD para causar um sentimento de culpa terrível em uma pessoa em alcance curto até o fim da cena. O alvo pode fazer um teste de Vontade (DT Pre +5) para evitar. Se falhar, tem memórias vívidas das piores coisas que já fez e se sente merecedor de todo sofrimento do mundo, se deixando indefeso. O alvo pode fazer um novo teste no início de seus turnos para se libertar da condição. 
+
+Pré-requisito: ser o sacrifício da Culpa.

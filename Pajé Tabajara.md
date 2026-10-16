@@ -1,0 +1,3 @@
+Homem baixo de cabelo liso escorrido, adornado com penas brancas com tons de vermelho. aparenta ter por volta de 50 anos de idade. Carrega nas roupas diversos pequenos ossos que animais mortos, em sua maioria dentes. no corpo há desenhos rubros de ondas, espirais e simbolos grosseiros do outro lado. Apesar de sua aparência, é uma figura de união para a aldeia, exercendo sua função de cura e de comunicação com o espiritual (Outro Lado)
+
+- Enigmático e gentil

@@ -1,0 +1,1 @@
+Seu irmão vai buscar Paulo no Bar porém ele é morto por Dante e Paulo joga a culpa no Caio da Gangue.
