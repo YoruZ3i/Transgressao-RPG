@@ -80,9 +80,149 @@
               "icon": "lucide-file",
               "title": "Senhor Veríssimo"
             }
+          },
+          {
+            "id": "3cc71fa659a11fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anátema Paranormal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anátema Paranormal"
+            }
+          },
+          {
+            "id": "838a65a760ff9f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noite 3 — Noite dos Loucos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noite 3 — Noite dos Loucos"
+            }
+          },
+          {
+            "id": "5272f55bcb18a1fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alice S..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alice S."
+            }
+          },
+          {
+            "id": "260cda8ea3392b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apóstolo da Culpa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apóstolo da Culpa"
+            }
+          },
+          {
+            "id": "1bbdc75ed6d6d10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luseta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luseta"
+            }
+          },
+          {
+            "id": "685b68c6ff664bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luseta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luseta"
+            }
+          },
+          {
+            "id": "076f86a0e53c6f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noite 3 — Noite dos Loucos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noite 3 — Noite dos Loucos"
+            }
+          },
+          {
+            "id": "cfedcf381e95d0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Exegese/Exegese.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exegese"
+            }
+          },
+          {
+            "id": "837d69e02ea470db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noite 1 — Dia dos Pecadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noite 1 — Dia dos Pecadores"
+            }
+          },
+          {
+            "id": "0e42ccfec01a97c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inimigos & Boss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inimigos & Boss"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -98,10 +238,12 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byModifiedTimeReverse",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Explorador de arquivos"
         }
       },
       {
@@ -110,7 +252,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "antes da campanha",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -161,7 +303,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f27b5fa28ef63bb6",
@@ -173,7 +315,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Senhor Veríssimo.md",
+            "file": "A Exegese/Exegese.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -192,7 +334,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Yuri Santoro.md",
+            "file": "Prompt para criar imagens.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -226,7 +368,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,48 +382,49 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b5b3b26e57bc1312",
+  "active": "cfedcf381e95d0c9",
   "lastOpenFiles": [
-    "Noite 3 — Noite dos Loucos.md",
-    "Coroa Negra.md",
-    "Noite 2 — Tárde do Sete Pele.md",
-    "Inimigos & Boss.md",
-    "Mecânicas e Criações.md",
-    "Luseta.md",
-    "Prompt para criar imagens.md",
-    "Rádio Vale Livre.md",
-    "Transmissão Dia 2.wav",
+    "A Exegese/Ordem Paranormal – A Exegese.md",
+    "A Exegese.md",
     "Noite 1 — Dia dos Pecadores.md",
-    "Hospital Municipal de Coroa Negra.md",
-    "Delegacia.md",
+    "Rádio Serra Alta.md",
+    "A Exegese/Exegese.md",
+    "A Exegese/Estagnação.md",
+    "A Exegese/Foco Paranormal.md",
+    "A Exegese/Verdade de Tudo.md",
+    "Arquivos Sentenciados.md",
+    "Inimigos & Boss.md",
+    "Sigilos de Conhecimento.md",
+    "Anátema Paranormal.md",
+    "Lor dos Personagens.md",
+    "Mecânicas e Criações.md",
+    "Sinos de Tenebris.md",
+    "Derek Hutchins.md",
+    "Sino da Predestinação.md",
+    "Ordem Paranormal — A Exegese.md",
     "Campanhas.md",
-    "Gabriel Henrique.md",
+    "Noite 3 — Noite dos Loucos.md",
+    "Luseta.md",
+    "Alice S..md",
+    "Luna Lancaster.md",
+    "Lana Lancaster.png",
+    "Noite 2 — Tárde do Sete Pele.md",
+    "Jana 'Luseta'.md",
+    "Apóstolo da Culpa.md",
+    "Crescimento de Agressões.png",
+    "Sem título 1.base",
+    "Sem título.base",
+    "Transmissão Dia 2.wav",
     "Delegacia Noite.png",
     "Delegacia Dia.png",
-    "Coroa do Cangaço.md",
-    "Lor dos Personagens.md",
-    "Bar do Jurandir.md",
-    "Lampião O Cangaceiro.md",
-    "Sæerlig Norato.md",
-    "Luna Lancaster.md",
-    "Jana 'Luseta'.md",
     "Jana a Luseta.png",
-    "Rádio Serra Alta.md",
-    "Diário de Bordo.md",
     "file_0000000074e4820eb3b1cac766da1545.png",
     "file_00000000ae70820eb6384379626ca2fe.png",
     "file_000000008998820e8d74cac44d424872.png",
     "file_00000000981c820eaa2c1180d1f2f453.png",
     "file_00000000e0c4820e91962e453338604d.png",
-    "file_000000007cdc820e855b1a4a2deff0e2.png",
-    "Corvos do Asfalto.md",
-    "Diego 'Mula'.md",
-    "Diego.png",
-    "Sérgio 'Tatu'.md",
-    "Caio 'Bala'.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "Sem título.base",
     "Massacre Serra Alta.mp4",
     "Arquivos_Radio_Serra_Alta.pdf",
     "Áudio Porta 4.2.wav",
@@ -289,7 +432,6 @@
     "Áudio Porta 4.wav",
     "Áudio Porta 3.wav",
     "Áudio Porta 2.wav",
-    "Áudio Porta 7.wav",
     "teste.canvas"
   ]
 }

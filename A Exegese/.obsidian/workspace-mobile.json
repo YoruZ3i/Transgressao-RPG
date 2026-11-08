@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "3dd53199a654d360",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f074b2afc618cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67b4cc23654ec5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verdade de Tudo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verdade de Tudo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d19d88ee1421802a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f268e90a3548755",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "ab6978768c0a31f4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "c81dd34d6bcec955",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "6b541608f50dee30",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas as propriedades"
+        }
+      },
+      {
+        "id": "ef8bfc722a81b978",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f59cd9051e64baf7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0be8887c195530ab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Verdade de Tudo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "bdf500766459ebb3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "ae18acfa138da3ac",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "c67b4cc23654ec5f",
+  "lastOpenFiles": [
+    "Estagnação.md",
+    "Verdadeira Face.md",
+    "Verdade de Tudo.md",
+    "Verdade Universal.md",
+    "Verdade Inevitável.md",
+    "Sentença.md",
+    "Exegese.md",
+    "Porque a Exegese.md",
+    "Leis Centrais.md",
+    "Foco Paranormal.md",
+    "Fragmento da Estagnação.md",
+    "Ordem Paranormal – A Exegese.md"
+  ]
+}

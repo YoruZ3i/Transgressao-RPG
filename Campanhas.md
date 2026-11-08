@@ -29,7 +29,7 @@ Essas perguntas servem para uma mecânica de Transgressão porém servem para ap
 ###### Algo que ele vem adiando para resolver
 
 ___
-#### [[Ordem Paranormal — Inesquecível]]
+#### [[Ordem Paranormal — A Exegese]]
 
 ##### Spin-Off
 ###### [[Noite de Jogos]]

@@ -1,447 +1,370 @@
-# A EXEGESE
+### A EXEGESE
+Regulamento Consolidado — Versão 1.0
 
-> "Toda verdade deseja ser compreendida."
+A Exegese está pronta para ser organizada como um ritual completo de Ordem Paranormal RPG. A partir daqui, vou reunir as decisões aprovadas em um único regulamento, separando as regras fundamentais das consequências paranormais.
 
+Esta versão é uma consolidação do nosso cânone, não uma nova rodada de criação. Onde ainda não estabelecemos valores numéricos ou procedimentos específicos, não vou inventá-los.
 
+### I — A Natureza da Exegese
+A Exegese é um ritual paranormal destinado a despertar um novo portador da Máscara do Desespero, a Relíquia de Conhecimento, dando origem a um novo Magistrado ou Magistrada.
 
-Elemento: Conhecimento
+A ausência atual de um Magistrado na Realidade torna necessária a realização do ritual.
 
-Manifestação: Ritual de Relíquia
+A Exegese não procura o indivíduo mais poderoso, virtuoso ou inteligente. Procura alguém capaz de compreender as verdades fundamentais que sustentam o Conhecimento e, ao final, aceitar voluntariamente a responsabilidade de preservar o Equilíbrio.
 
-Localização: Carcosa
+O julgamento é realizado pela própria Exegese. Não existe um juiz consciente que possa ser persuadido, enganado ou convencido por discursos.
 
-Objetivo: Selecionar o Herdeiro da Máscara do Desespero
+A compreensão precisa ser demonstrada pelas escolhas.
 
+### II — Os Participantes e os Quatro Sinos
 
----
+A Exegese reúne vinte participantes, distribuídos igualmente entre quatro Sinos.
 
-O QUE É A EXEGESE
+| Sino          | Elementos              | Composição                  |
+| ------------- | ---------------------- | --------------------------- |
+| Conhecimento  | Conhecimento           | 1 Herdeiro + 4 companheiros |
+| Intenção      | Conhecimento e Sangue  | 1 Herdeiro + 4 companheiros |
+| Predestinação | Conhecimento e Morte   | 1 Herdeiro + 4 companheiros |
+| Transmissão   | Conhecimento e Energia | 1 Herdeiro + 4 companheiros |
 
-A Exegese é um ritual de escala Relicária associado à Máscara do Desespero.
+Cada participante toca o Sino correspondente para ingressar na Exegese.
 
-Sua função é selecionar um indivíduo capaz de suportar a Verdade Absoluta sem perder completamente sua identidade.
+Seu corpo permanece inconsciente na Realidade, enquanto sua consciência é conduzida a Carcosa.
 
-Assim como o Hexatombe seleciona um receptáculo para o Diabo, a Exegese seleciona um Herdeiro para a Máscara.
+Os Sinos sustentam as necessidades fisiológicas dos participantes durante os cinco dias do ritual, mas não tornam seus corpos invulneráveis.
 
-O ritual ocorre dentro de Carcosa, uma manifestação urbana do Conhecimento que existe simultaneamente no Outro Lado e na Realidade.
+A destruição do corpo provoca morte definitiva, removendo imediatamente o participante da Exegese, sem direito à Segunda Chance.
 
+### III — O Tempo e os Cinco Véus
 
----
+A Exegese dura exatamente cinco dias, com o tempo transcorrendo de maneira sincronizada em Carcosa e na Realidade.
 
-INÍCIO DA EXEGESE
+* Predestinação — A responsabilidade diante do inevitável.
 
-A Exegese inicia quando quatro indivíduos marcados pelo Conhecimento são reunidos sob condições específicas.
+* Transmissão — A responsabilidade sobre o conhecimento transmitido.
 
-Todos devem possuir:
+* Intenção — A relação entre desejo, identidade e escolha.
 
-Afinidade com Conhecimento;
+* Conhecimento — O reconhecimento da verdade absoluta.
 
-Exposição Paranormal superior a 50%;
+* Desespero — A escolha do novo Magistrado.
 
-Contato prévio com fenômenos de Conhecimento;
+Os quatro primeiros Véus possuem três fases diárias:
 
-Um desejo relacionado à Verdade.
+Preparação: apresentação da verdade do dia, organização dos participantes e troca de informações.
 
+Execução: investigação, confrontação, exploração, interação e decisões que demonstram compreensão.
 
-Quando estas condições são atendidas.
+Conclusão: encerramento do prazo e julgamento individual dos participantes.
 
-Carcosa manifesta-se.
+A estrutura não impõe uma sequência obrigatória de ações durante a Execução.
 
+### IV — As Verdades dos Quatro Véus
 
----
+Cada Véu exige a compreensão de uma verdade específica. Todos os participantes ativos são submetidos ao mesmo Véu, independentemente do Sino de origem.
 
-PARTICIPANTES
+Primeiro Véu — Predestinação
 
-HERDEIROS
+Dia 1
 
-A Exegese seleciona:
+Conhecimento + Morte
 
-4 Herdeiros
+Verdade: o inevitável não elimina a responsabilidade por aquilo que escolhemos fazer antes dele.
 
-Cada Herdeiro representa uma interpretação diferente do Conhecimento.
+Desafio: enfrentar uma consequência que não pode ser completamente evitada.
 
+Aprovação: reconhecer os limites do próprio controle sem abandonar a responsabilidade pelas próprias decisões.
 
----
+Segundo Véu — Transmissão
 
-O Herdeiro do Conhecimento
+Dia 2
 
-Representa:
+Conhecimento + Energia
 
-Verdade;
+Verdade: transmitir conhecimento não significa controlar aquilo que o outro compreenderá ou fará com ele.
 
-Compreensão;
+Desafio: lidar com a circulação de uma verdade e suas consequências imprevisíveis.
 
-Informação.
+Aprovação: demonstrar responsabilidade sobre o que transmite, reconhecendo a autonomia de quem recebe a informação.
 
+Terceiro Véu — Intenção
 
+Dia 3
 
----
+Conhecimento + Sangue
 
-O Herdeiro da Intenção
+Verdade: o desejo influencia nossas escolhas, mas não determina sozinho quem somos.
 
-Representa:
+Desafio: confrontar uma vontade profundamente pessoal e suas consequências.
 
-Conhecimento + Sangue.
+Aprovação: compreender a própria intenção e agir conscientemente, sem ser inteiramente definido ou dominado pelo desejo.
 
+Quarto Véu — Conhecimento
 
-A Verdade moldada pelo desejo.
+Dia 4
 
+Conhecimento puro
 
----
+Verdade: compreender exige reconhecer a verdade mesmo quando ela contradiz nossas certezas, interesses ou identidade.
 
-O Herdeiro da Aceitação
+Desafio: confrontar uma revelação capaz de modificar profundamente a interpretação da realidade.
 
-Representa:
+Aprovação: demonstrar compreensão genuína da revelação e de suas implicações.
 
-Conhecimento + Morte.
+### Lei da Compreensão Consciente
 
+A Exegese avalia a compreensão genuína demonstrada por decisões e atitudes, independentemente da moralidade dessas escolhas.
 
-A Verdade compreendida e aceita.
+O julgamento não exige bondade, obediência, vitória ou uma resposta verbal específica.
 
+Os participantes podem errar, aprender e reconsiderar suas ações até o encerramento do Véu. No momento do julgamento, aqueles que demonstraram compreensão prosseguem; aqueles que não demonstraram sofrem Estagnação.
 
----
+### V — Os Herdeiros e a Sucessão
 
-O Herdeiro da Transmissão
+Cada Sino possui um Herdeiro responsável pela continuidade de sua linhagem.
 
-Representa:
+Quando um Herdeiro é eliminado, seus companheiros ativos precisam enfrentar a Provação de Sucessão do Sino de origem.
 
-Conhecimento + Energia.
+O primeiro participante que demonstrar compreensão genuína da verdade exigida por essa provação assume o posto de Herdeiro.
 
+A sucessão obedece às seguintes leis:
 
-A Verdade compartilhada.
+* Não existe votação, combate obrigatório ou escolha arbitrária.
 
+* A eliminação do Herdeiro não reinicia o Véu.
 
----
+* A sucessão deve ser concluída dentro do prazo restante.
 
-EQUIPES
+* Se nenhum sucessor surgir, a linhagem é extinta e seus companheiros remanescentes sofrem Estagnação pelo Sino de origem.
 
-Cada Herdeiro recebe:
+Lei do Prazo Absoluto: se um Herdeiro for condenado no julgamento final de um Véu, não existe intervalo adicional para sucessão. A linhagem pode ser extinta naquele instante.
 
-4 Companheiros
+A possibilidade de restauração de uma linhagem extinta durante o quinto Véu permanece como exceção específica, por meio da Segunda Chance.
 
-Totalizando:
+### VI — A Estagnação
 
-5 participantes por equipe
+A Estagnação é a condenação paranormal aplicada aos participantes que não demonstram compreensão ou que sofrem determinadas consequências do ritual.
 
+A consciência do condenado é aprisionada em uma realidade particular, formada ao redor da verdade que não conseguiu compreender.
 
----
+O Estagnado preserva sua memória, identidade, consciência e capacidade de pensar.
 
-Carcosa escolhe os integrantes.
+Ele pode continuar aprendendo, mas a compreensão adquirida após a condenação definitiva não o liberta automaticamente.
 
-Todos possuem ligação direta com o Herdeiro.
+A Estagnação não equivale à morte física. O corpo do condenado permanece na Realidade e sofre uma transformação paranormal associada ao Sino responsável por sua sentença.
 
+### As Sentenças dos Sinos
 
----
+| Sino que condena | Sentença física          | Foco Paranormal Permanente |
+| ---------------- | ------------------------ | -------------------------- |
+| Intenção         | Carne Desejante          | Coração Insaciável         |
+| Predestinação    | Corpo do Último Instante | Marco Inevitável           |
+| Transmissão      | Receptáculo das Vozes    | Frequência Infinita        |
+| Conhecimento     | Escritura Viva           | Arquivo Imóvel             |
 
-CARCOSA
+As manifestações podem se intensificar ao longo dos anos, passando pelas etapas de Ressonância, Manifestação, Transfiguração e Convergência.
 
-A cidade manifesta-se como um espaço isolado da Realidade.
+Um Foco Paranormal Permanente pode ser destruído sem libertar a consciência aprisionada.
 
-Durante a Exegese:
+Nos quatro primeiros Véus, a sentença corresponde ao Sino do Véu em que ocorreu a reprovação, e não necessariamente ao Sino de origem do participante.
 
-não existe dia;
+### VII — Carcosa
 
-não existe noite;
+Carcosa é o domínio paranormal no qual as consciências dos participantes enfrentam a Exegese.
 
-não existe passagem convencional do tempo.
+Seus principais lugares possuem as seguintes funções:
 
+| Local                    | Função                                                    |
+| ------------------------ | --------------------------------------------------------- |
+| Lago de Hali             | Referência central da geografia e da atmosfera paranormal |
+| Arquivos Infinitos       | Investigação e acesso ao conhecimento                     |
+| Teatro Amarelo           | Confrontação simbólica com as verdades                    |
+| Palácio Amarelo          | Revelação da Máscara do Desespero                         |
+| Fragmentos da Estagnação | Prisões individuais das consciências condenadas           |
 
+Essas funções não obrigam que cada Véu aconteça exclusivamente em determinado local.
 
----
+### Os Fragmentos da Estagnação
 
-LOCAIS IMPORTANTES
+Os Fragmentos são realidades particulares e eternas. Sua estrutura e seus acontecimentos constitutivos são imutáveis, inclusive diante do Magistrado e de seus acordos.
 
-Lago de Hali
+As principais regras são:
 
-Centro da cidade.
+* Os Estagnados podem conversar, mentir, manipular e atacar visitantes dentro de seus Fragmentos.
 
-Reflete verdades.
+* Não podem abandonar suas prisões.
 
+* A morte de um visitante dentro de um Fragmento provoca sua morte física definitiva na Realidade.
 
----
+* O corpo manifestado de um Estagnado pode ser destruído permanentemente. Sua consciência continua aprisionada, podendo observar e ouvir o próprio Fragmento, mas perde definitivamente a capacidade de comunicação e interação.
 
-Arquivos Infinitos
+* Cada Estagnado percebe somente seu próprio Fragmento.
 
-Biblioteca principal.
+* Objetos pertencentes originalmente ao Fragmento não podem ser retirados.
 
-Contém registros:
+* Objetos externos podem ser abandonados, recuperados, modificados ou destruídos normalmente.
 
-passados;
+* Os pertences de visitantes mortos permanecem no Fragmento.
 
-presentes;
+* Visitantes podem retirar outros visitantes à força, desde que consigam alcançá-los e atravessar uma saída válida.
 
-futuros.
+* Estagnados podem bloquear fisicamente ou paranormalmente o acesso às saídas, mas não destruí-las ou removê-las.
 
+* As saídas integram a aparência da realidade particular e precisam ser identificadas pelos visitantes.
 
+A relação exata entre as passagens de entrada e saída não foi definida. Ela não é necessária para estabelecer o funcionamento central da Exegese.
 
----
+### VIII — O Quinto Véu: Desespero
 
-Teatro Amarelo
+O quinto dia é diferente dos anteriores.
 
-Local onde acontecimentos da Exegese são encenados.
+O Véu do Desespero não pertence a nenhum dos quatro Sinos. Está associado diretamente à Máscara do Desespero e à escolha de seu novo portador.
 
+Possui duas grandes possibilidades: a Segunda Chance e a conclusão da Exegese.
 
----
+### A Segunda Chance
 
-Palácio Amarelo
+Durante o quinto dia, os participantes ativos podem tentar libertar Estagnados dos quatro primeiros Véus da Exegese atual.
 
-Localização da Máscara do Desespero.
+O próprio Estagnado também pode tentar alcançar sua libertação.
 
+A libertação exige que ele compreenda genuinamente a verdade responsável por sua condenação.
 
----
+Não existe limite de tentativas enquanto o quinto dia estiver em andamento.
 
-OS VÉUS
+Essa possibilidade não se aplica a participantes fisicamente mortos nem a Estagnados de Exegeses anteriores.
 
-A Exegese ocorre em seis estágios.
+Um participante libertado:
 
-Conhecidos como:
+* Retorna como membro ativo de seu Sino de origem.
 
-Véus
+* Conserva uma Sentença Residual vitalícia relacionada ao Sino que originalmente o condenou.
 
+* Não recupera automaticamente o posto de Herdeiro caso já exista um sucessor ativo.
 
----
+* Pode precisar restaurar sua linhagem por uma Provação de Sucessão, caso ela esteja extinta.
 
-Primeiro Véu
+A Sentença Residual é estável e não progride automaticamente até se tornar um Foco Paranormal Permanente.
 
-Ignorância
+### Restauração de linhagens extintas
 
-O participante confronta aquilo que recusou aprender.
+Quando um participante libertado pertence a uma linhagem extinta, ele precisa superar a Provação de Sucessão de seu Sino de origem para restaurá-la.
 
+Se fracassar, sofre Estagnação definitiva.
 
----
+Se vários membros da mesma linhagem forem libertados, todos podem tentar a sucessão. O primeiro que compreender genuinamente a verdade exigida torna-se Herdeiro.
 
-Segundo Véu
+As provações ainda pendentes dos demais são interrompidas sem penalidade, permitindo que permaneçam como companheiros ativos.
 
-Negação
+Essa exigência de restauração se aplica aos participantes resgatados de linhagens extintas, não a todos que chegaram ativos ao quinto Véu.
 
-O participante confronta verdades rejeitadas.
+### IX — Os Cinco Finalistas
 
+O objetivo do quinto Véu é reduzir o número de participantes ativos a exatamente cinco.
 
----
+Isso pode acontecer por negociação, alianças, traições, desistências ou mortes.
 
-Terceiro Véu
+A desistência voluntária durante o quinto Véu provoca Estagnação definitiva, sem direito à Segunda Chance.
 
-Mentira
+As sentenças decorrentes da desistência ou do fracasso final são determinadas pelo Sino de origem.
 
-O participante confronta falsidades criadas por si mesmo.
+Se um participante previamente resgatado sofrer nova Estagnação, a nova sentença integral absorve e substitui sua Sentença Residual.
 
+### A revelação da Máscara
 
----
+Quando restarem exatamente cinco participantes ativos, a Máscara do Desespero será revelada.
 
-Quarto Véu
+A revelação não encerra a Exegese.
 
-Dúvida
+Se uma libertação posterior elevar o número de ativos acima de cinco, a Máscara permanece visível, mas não pode ser vestida até que o número retorne a exatamente cinco.
 
-O participante confronta escolhas não realizadas.
+Se restarem menos de cinco, o ritual continua até o encerramento do quinto dia, permitindo que novos resgates restabeleçam a quantidade necessária.
 
+Somente com exatamente cinco participantes ativos a Máscara pode ser vestida.
 
----
+### X — O Nascimento do Magistrado
 
-Quinto Véu
+Entre os cinco finalistas, um participante deve vestir voluntariamente a Máscara do Desespero antes do encerramento do quinto dia.
 
-Identidade
+Ninguém pode ser obrigado a assumir esse papel.
 
-O participante confronta sua própria existência.
+Aquele que a veste torna-se o novo Magistrado ou Magistrada, recebendo o Conhecimento da Realidade e do Outro Lado.
 
+A transformação exige o abandono de sua antiga individualidade e a responsabilidade de preservar o Equilíbrio.
 
----
+No instante em que a Máscara é vestida:
 
-Sexto Véu
+* A Exegese termina imediatamente.
 
-Medo
+* Todos os participantes ainda Estagnados são condenados definitivamente.
 
-O participante confronta a Verdade Absoluta.
+* Os outros quatro finalistas retornam à Realidade com suas memórias.
 
+* Os cinco finalistas recebem o direito a um acordo individual com o novo Magistrado.
 
----
+O próprio Magistrado também possui um acordo, realizado após sua transformação.
 
-ELIMINAÇÃO
+### O fracasso absoluto
 
-A Exegese não mata.
+Se o quinto dia terminar sem o nascimento de um Magistrado, todos os participantes ainda ativos sofrem Estagnação definitiva.
 
-Ela reescreve.
+Os já Estagnados permanecem condenados.
 
+A Máscara continua sem portador.
 
----
+### XI — Os Acordos com o Magistrado
 
-Quando um Herdeiro falha.
+Cada um dos cinco finalistas possui direito a um acordo.
 
-Carcosa inicia um processo denominado:
+Os acordos podem produzir alterações extraordinárias, desde que não contrariem diretamente o Equilíbrio.
 
-Correção
+Quando um pedido é incompatível com o Equilíbrio, ele é recusado e o participante deve reformulá-lo. O direito ao acordo não é consumido.
 
+Entre as possibilidades estabelecidas estão:
 
----
+* Remover Sentenças Residuais de uma ou várias pessoas por meio de um único acordo.
 
-Primeiro Estágio
+* Eliminar Sentenças físicas e Focos Paranormais Permanentes sem libertar consciências definitivamente Estagnadas.
 
-Documentos desaparecem.
+* Alterar acontecimentos pessoais ou locais do passado, respeitando os limites da Correção Temporal.
 
+### A Correção Temporal
 
----
+Alterações no passado não criam linhas temporais paralelas.
 
-Segundo Estágio
+A própria Realidade corrige os acontecimentos posteriores, preservando a maior parte possível da história.
 
-Fotografias alteram-se.
+Os registros físicos e digitais são reescritos conforme a nova versão dos fatos.
 
+O Magistrado, o solicitante e os indivíduos diretamente afetados preservam a Dupla Memória: recordam claramente tanto a história original quanto a modificada.
 
----
+As demais pessoas recordam apenas a história corrigida.
 
-Terceiro Estágio
+Existem limites absolutos:
 
-Memórias são modificadas.
+Eventos diretamente relacionados às Relíquias são imunes à Correção Temporal.
 
+Os acontecimentos ocorridos durante a própria Exegese também não podem ser alterados retroativamente, incluindo mortes, Estagnações, sucessões e a escolha da Máscara.
 
----
+Suas consequências posteriores, entretanto, podem ser modificadas por acordos compatíveis com o Equilíbrio.
 
-Quarto Estágio
+### XII — Resumo operacional para o mestre
 
-A identidade é apagada.
+### Fluxo completo da Exegese
 
+* Vinte participantes entram em Carcosa pelos quatro Sinos.
 
----
+* Durante quatro dias, todos enfrentam os Véus em ordem fixa.
 
-O indivíduo torna-se:
+* Cada dia possui Preparação, Execução e Conclusão.
 
-Um Habitante de Carcosa
+* Ao encerramento de cada Véu, cada participante é julgado individualmente.
 
+* Participantes reprovados sofrem Estagnação; Herdeiros eliminados podem provocar sucessões ou extinção de linhagens.
 
----
+* No quinto dia, ocorre a Segunda Chance e a redução dos ativos a cinco.
 
-HABITANTES DE CARCOSA
+* Com cinco ativos, um deles pode vestir voluntariamente a Máscara.
 
-São participantes eliminados.
-
-Não possuem:
-
-nome;
-
-rosto;
-
-passado.
-
-
-
----
-
-Servem à cidade.
-
-E auxiliam na manutenção da Exegese.
-
-
----
-
-INTERFERÊNCIAS
-
-Durante a Exegese.
-
-Carcosa pode manifestar:
-
-Manuscritos
-
-Objetos contendo informações úteis.
-
-
----
-
-Máscaras
-
-Objetos capazes de alterar interpretações.
-
-
----
-
-Ecos
-
-Versões possíveis dos participantes.
-
-
----
-
-O REI SEM ROSTO
-
-Quando apenas um Herdeiro permanece.
-
-Ele é conduzido ao Palácio Amarelo.
-
-Lá encontra a Máscara do Desespero.
-
-
----
-
-A Máscara realiza um único julgamento.
-
-
----
-
-> "Quem permanecerá após conhecer a Verdade?"
-
-
-
-
----
-
-Caso a resposta seja satisfatória.
-
-O participante torna-se:
-
-Rei Sem Rosto
-
-
----
-
-Caso falhe.
-
-Torna-se apenas mais um Habitante de Carcosa.
-
-
----
-
-ENCERRANDO UMA EXEGESE
-
-A Exegese termina quando:
-
-um Herdeiro é escolhido;
-
-todos os Herdeiros são corrigidos;
-
-a Máscara rejeita todos os candidatos.
-
-
-
----
-
-Neste último caso.
-
-Carcosa desaparece.
-
-E o ritual permanecerá dormente até que novos Herdeiros sejam encontrados.
-
-
----
-
-COMO REALIZAR UMA EXEGESE
-
-Para iniciar uma Exegese artificialmente é necessário:
-
-1. Quatro indivíduos marcados pelo Conhecimento;
-
-
-2. Um local de forte Membrana enfraquecida;
-
-
-3. Um símbolo da Máscara do Desespero;
-
-
-4. Um registro contendo uma Verdade proibida;
-
-
-5. A aceitação voluntária dos Herdeiros.
-
-
-
-Quando os quatro Herdeiros reconhecem simultaneamente a existência do Rei Sem Rosto.
-
-Carcosa abre seus portões.
-
-E a Exegese começa.
+* O nascimento do Magistrado encerra imediatamente o ritual e permite os cinco acordos.
+* 

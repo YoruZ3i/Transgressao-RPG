@@ -1,0 +1,1 @@
+Está é uma campanha de Conhecimento, um grande ritual chamado [[A Exegese]] com um prêmio impensável.. 

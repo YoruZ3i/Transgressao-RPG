@@ -1,4 +1,4 @@
-Aqui ficam as regras criadas para manter a Ordem e controle sobre as Relíquias ditada pela [[Magistrada]]/Máscara do Desespero.
+Aqui ficam as regras criadas para manter a Ordem e controle sobre as Relíquias ditada pela [[Magistrada]]/[[Máscara do Desespero]].
 #### [[TRONO DO DIABO]]/[[DIABO]]
 O Trono é a forma original da Relíquia de Sangue, onde ele deve seguir os seguintes pré-requisitos para ser portado por alguém:
 
@@ -22,7 +22,7 @@ A Chama Eterna é a forma original da Relíquia de Energia, onde ele deve seguir
 
 - [ ] O Portador da Relíquia de Energia é sempre escolhido ao acaso, sempre de uma maneira caótica ou infortúnia, seja em um teste para saber quem é o escolhido ou ao acaso aparecendo aleatoriamente e se prendendo a alguém.
 
-- [ ] O ser a qual se prender a Chama Eterna, irá fazer parte da mente caótica dela, não perdendo sua individualidade mas, perdendo a sua sanidade e sendo corrompido pelos desejos da mesma, onde buscará entretenimento e diversão, mesmo que isso desbaste milhares.
+- [ ] O ser a qual se prender a Chama Eterna, irá fazer parte da mente caótica dela, não perdendo sua individualidade mas, perdendo a sua sanidade e sendo corrompido pelos desejos da mesma, onde buscará entretenimento e diversão, mesmo que isso devaste milhares.
 ___
 #### [[PARASITA DE DIMENSÕES]]/[[DEUS DA MORTE]]
 O Parasita de Dimensões é a forma original da Relíquia de Morte, onde ele deve seguir os seguintes pré-requisitos para ser portado por alguém:

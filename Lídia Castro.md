@@ -406,31 +406,26 @@ E, embora desconheça o nome do responsável, ela conhece seu rosto.
 
 ---
 
-Detalhes
-
-Personalidade
-
+#### Detalhes
+###### Personalidade
 Lídia Castro é uma investigadora observadora, metódica e cautelosa. Costuma analisar cuidadosamente as situações antes de agir e prefere reunir informações suficientes antes de tomar decisões. Apesar de sua postura reservada, demonstra grande lealdade às pessoas próximas.
 
-Motivação
-
+###### Motivação
 Inicialmente, Lídia desejava construir sua própria trajetória profissional na S.C.I. e ajudar a investigar acontecimentos que não podiam ser explicados por meios convencionais. Sua amizade com Carlos Torres também influenciou sua aproximação com a organização.
 
-Relações importantes
-
+###### Relações importantes
 - Carlos Torres: melhor amigo desde a infância e parceiro de investigação. Sua morte representa o acontecimento mais traumático da vida de Lídia.
 - Veríssimo: líder da Ordo Realitas, admirado por Carlos, cujo reconhecimento era um dos maiores objetivos do jovem agente.
 - Dante Davo: ocultista investigado pela dupla durante o sexto dia em Coroa Negra, conhecido como Face Cega.
 - Álvaro Castro: assassino de Carlos Torres. Lídia presenciou o crime e reconheceria seu rosto, embora desconheça seu nome e sua identidade como Apóstolo da Culpa.
 
-Aparência
+###### Aparência
 
-A definir.
-
-Situação atual
-
+###### Ficha
+[[S.C.I. Lídia Castro]]
 Viva, hospitalizada e em coma devido aos ferimentos sofridos em Coroa Negra.
 
 Informação confidencial para o Mestre
 
 Lídia é uma testemunha direta do assassinato de Carlos Torres. Seu eventual despertar pode revelar a aparência do responsável e estabelecer uma ligação entre a morte do agente e Álvaro Castro, o Apóstolo da Culpa.
+___

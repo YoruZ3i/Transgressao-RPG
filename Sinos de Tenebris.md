@@ -18,11 +18,11 @@ Quem carrega a Transmissão deixa de ser indivíduo e Se torna Um Só.
 
 A união impossível daquilo que se repele, a união entre o desejo carnal do Sangue e a racionalidade do Conhecimento forma a Intenção... Um desejo primitivo porém racionalizado.
 
-##### [[Sino da Obliteracão]]
->
+##### [[Sino da Predestinação]]
+> Morte e Conhecimento
 
 ##### [[Sino da Tentação]]
->
+> Energia e Sangue
 
 ##### [[Sino do Destruição]]
->
+> Energia e Morte

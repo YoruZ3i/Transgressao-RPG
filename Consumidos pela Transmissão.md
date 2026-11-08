@@ -14,7 +14,7 @@ DEFESA 14
 
 Fortitude 2d20+5 | Reflexos 1d20+5 | Vontade 1d20+5
 
-PV 20 | Machucado 10 / 25
+PV 20 | Machucado 10 / 4
 
 AGI 1 FOR 2 INT 2 PRE 1 VIG 2
 
@@ -42,7 +42,7 @@ DEFESA 12
 
 Fortitude 2d20+5 | Reflexos 1d20+5 | Vontade 1d20+5
 
-PV 15 | Machucado 7
+PV 15 | Machucado 7 / 1-3 /2
 
 AGI 1 FOR 2 INT 2 PRE 1 VIG 2
 
@@ -60,3 +60,8 @@ PADRÃO ❖ AGREDIR
 | Pancada | CaC |
 Teste 2d20+5 (**_crítico 19_** )| Dano 1d4+3 corte
 ___
+Lampião 
+Consumidos
+Norato
+Pedro 
+Vivian

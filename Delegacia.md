@@ -194,9 +194,9 @@ Caso tenham sucesso eles podem receber os seguintes equipamentos:
 ___
 **Munições**:
 14 Pacotes de Balas curtas
-6 Cartuchos
+0 Cartuchos
 4 Pacotes de Balas Longas
-1 Pacote de Balas Curtas (explosiva)
+0 Pacote de Balas Curtas (explosiva)
 ____
 **Armas Brancas**:
 2 Bastões 
@@ -207,11 +207,11 @@ ___
 **Equipamentos**:
 15 Algemas
 3 Lanternas Táticas
-2 Proteção Leve
-1 Kit de Medicina
+0 Proteção Leve
+0 Kit de Medicina
 1 Kit de Profissão (Policial)
 1 Kit de Crime 
-1 Pé de cabra
+0 Pé de cabra
 1 Binóculos
 ___
 #### Finalidade

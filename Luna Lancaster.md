@@ -13,5 +13,20 @@ Enquanto pesquisava algumas de suas diversas telas começaram a ter glitchs, uma
 De repente, no breu, todas as telas se juntaram numa só imagem, como se todas as telas fossem uma enorme televisão. Uma pessoa, talvez algo, estava sentado numa cadeira rodeada com fios, usando uma máscara de gás com um símbolo. Esse ser ria, uma risada histérica e ao mesmo tempo meio metalizada, como se falasse por meio de algum tipo de modificador de voz.
 ___
 #### DETALHES
+###### Culpa
+Um arrependimento.
+~ Moonlight não sente arrependimento de seus atos – X
+
+Algo que mudaria, se ele pudesse.
+~ Faria de tudo para ser mais forte fora das telas, pois fez questão de se aperfeiçoar ao extremo mentalmente, mas se sente frágil sempre que precisa de alguém para a proteger
+
+Algo que ele fez de errado e pensa sobre até hoje.
+~ Luna não é de se culpar por suas ações, então referente aos problemas que ela já causou nunca lhe foram atribuídas, ela na verdade sente orgulho de suas interferências nos sistemas alheios. – X
+
+Uma Culpa que ele carrega.
+~ Luna nunca precisou se arriscar antes de começar a lutar contra o paranormal, então não há nada que ela se culpe, pelo menos por enquanto – X
+
+Algo que ele vem adiando para resolver.
+~ Atualmente não há uma pendência em sua vida – X
 ###### Aparência
 ![[Lana Lancaster.png]]

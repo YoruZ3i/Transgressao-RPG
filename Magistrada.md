@@ -24,8 +24,7 @@ RELIGIÃO 6d20+35
 
 **DESLOCAMENTO** Voo 12m |
 ###### DESTRONAR O ANFITRIÃO
-A Máscara do Desespero é a única que consegue 
-resolver o Enigma de Medo do Anfitrião.
+A Máscara do Desespero é a única que consegue resolver o Enigma de Medo do Anfitrião.
 
 ###### POTÊNCIA DO CONHECIMENTO
 O modificador da Máscara do Desespero para todos os testes de perícia baseados em Intelecto, Presença e Vigor é +35, e para testes baseados nos demais atributos, é +25.
@@ -36,8 +35,7 @@ Uma vez por turno, a Máscara do Desespero
 pode conjurar um ritual de Conhecimento 
 a sua escolha, de qualquer círculo. O ritual 
 deve ter execução máxima de ação completa 
-e custo máximo de 20 PD. A DT para resistir a 
-ele é 45.
+e custo máximo de 20 PD. A DT para resistir a ele é 45.
 
 ###### MOVIMENTO ❖ ONIPRESENÇA
 A Máscara do Desespero consegue se deslocar para qualquer local da Realidade, desde que haja algum tipo de sombra ou escuridão, independente da distância. Além disso, ela sabe exatamente tudo que está acontecendo na Realidade ao mesmo tempo. Isso faz com que nenhum personagem possa se esconder da relíquia, e ela ignora qualquer necessidade de ver ou ouvir para usar suas habilidades.
