@@ -5,6 +5,7 @@ A seguir estão criaturas do Elemento de Sangue:
 A seguir estão criaturas do Elemento de Intenção:
 #### Criaturas de Conhecimento
 A seguir estão criaturas do Elemento de Conhecimento
+[[Esquecido]] – VD 120
 ##### Criaturas de Transmissão 
 A seguir estão criaturas do Elemento de Transmissão:
 #### Criaturas de Energia

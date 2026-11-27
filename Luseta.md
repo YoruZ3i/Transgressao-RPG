@@ -57,7 +57,7 @@ Percepção 3d20+10 | Iniciativa 2d20+10
 DEFESA 27
 Fortitude 2d20+15 | Reflexos 2d20+10 | Vontade 3d20+10
 
-PV 200 | Machucado 100 (24 | 200)
+PV 200 | Machucado 100 (53 | 200)
 
 DESLOCAMENTO 9m |
 

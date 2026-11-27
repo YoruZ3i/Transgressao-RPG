@@ -139,3 +139,4 @@ ___
 ___
 
 ![[Kish.png]]
+Ficha de [[Sofia Almeida – A Esquecida]]

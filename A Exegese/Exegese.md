@@ -53,7 +53,7 @@ A estrutura não impõe uma sequência obrigatória de ações durante a Execuç
 #### III — As Verdades dos Quatro Véus
 Cada Véu exige a compreensão de uma verdade específica. Todos os participantes ativos são submetidos ao mesmo Véu, independentemente do Sino de origem.
 
-Primeiro Véu — Predestinação
+[[Primeiro Véu — Predestinação]]
 
 Dia 1
 
@@ -358,4 +358,4 @@ Aqui estão detalhes para ajudar na Exegese:
 - [[Leis Centrais]]
 - [[Porque a Exegese]]?
 - [[Estagnação]] 
-
+- [[Grupos da Exegese]] 

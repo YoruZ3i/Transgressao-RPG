@@ -2,6 +2,7 @@
 **Nascimento**: 20/02/1918 ~ 02/05/1954
 **Status**: Vivo/Selado
 **Elemento**: Conhecimento
+**Nacionalidade**: Germânia
 ____
 #### PRENÚNCIO
 **1918** — **1938** (**0** | **20**)

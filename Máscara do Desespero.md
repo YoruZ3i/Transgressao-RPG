@@ -1,1 +1,6 @@
 A Regente 
+***
+Portadores da Máscara
+Magistrado - 1860~1900
+Ocorrido:
+O portador da Máscara do Desespero morreu após uma rebelião inesperada e rápida, após uma das Máscaras presenciar a morte de sua família por criaturas de Sangue o [[Diabo]] interveio e libertou o lembro da Seita através dos Sentimentos Extremos que ele tinha, aquele membro era um perigo para a Máscara do Desespero então a Magistrada juntamente de outras 3 máscaras decidiram intervir porém o Diabo se manifestou juntamente de outras criaturas de Sangue e matou dois membros da seita e juntamente da Máscara que se desvinculou matou o Magistrado, a última máscara pegou a Máscara do Desespero e foi para o Mundo das Sombras (lugar onde a Seita das Máscara fica) após isso está máscara usou as últimas 4 máscaras restantes para continuar o legado da seita e tentar preservar o equilíbrio. Em 1920 a Máscara do Desespero estava sendo deslocada para um ambiente diferente porém foi roubada pelos membros da [[Corte Amarela]] e levada para a Germânia e depois levada para uma ilha remota onde aconteceu a primeira Exegese. Após a falha desta Exegese, a Máscara decidiu se preservar Criando assim a Verdadeira Exegese e se escondendo atrás dela e através dos Sinos de Tenebris.

@@ -788,7 +788,7 @@ DEFESA 18
 
 Fortitude 2d20+5 | Reflexos 1d20+5 | Vontade 1d20+5
 
-PV 30 | Machucado 15
+PV 30 | Machucado 15 | (3) (2)
 
 AGI 1 FOR 2 INT 2 PRE 1 VIG 2
 
@@ -824,7 +824,7 @@ DEFESA 23
 
 | Fortitude 2d20+10 | Reflexos 1d20+5 | Vontade 2d20+10
 
-PV 90 | Machucado 45
+PV 45 | Machucado 45
 
 AGI 1 FOR 3 INT 2 PRE 2 VIG 2
 

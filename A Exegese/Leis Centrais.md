@@ -1,4 +1,4 @@
-***AS DEZ LEIS DA EXEGESE***
+#### ***AS DEZ LEIS DA EXEGESE***
 
 *`O Conhecimento não perdoa a incompreensão.`*
 ___

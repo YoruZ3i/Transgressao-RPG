@@ -45,44 +45,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noite 3 — Noite dos Loucos.md",
+                "file": "Grupos da Exegese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noite 3 — Noite dos Loucos"
+              "title": "Grupos da Exegese"
             }
           },
           {
-            "id": "914ffbafd6fd97d7",
+            "id": "e9fe37f6b469a522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inimigos & Boss.md",
+                "file": "Prompt para criar imagens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inimigos & Boss"
+              "title": "Prompt para criar imagens"
             }
           },
           {
-            "id": "b5b3b26e57bc1312",
+            "id": "46c2c7b37988c09a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senhor Veríssimo.md",
+                "file": "Rádio Serra Alta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Senhor Veríssimo"
+              "title": "Rádio Serra Alta"
             }
           },
           {
-            "id": "3cc71fa659a11fa7",
+            "id": "5c198fdf0aaf1c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luseta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luseta"
+            }
+          },
+          {
+            "id": "3539dcf2f3e12b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,147 +110,63 @@
             }
           },
           {
-            "id": "838a65a760ff9f08",
+            "id": "9d7246a9c10c72f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noite 3 — Noite dos Loucos.md",
+                "file": "Esquecido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noite 3 — Noite dos Loucos"
+              "title": "Esquecido"
             }
           },
           {
-            "id": "5272f55bcb18a1fb",
+            "id": "7623d1c46b172493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alice S..md",
+                "file": "Damião Salles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alice S."
+              "title": "Damião Salles"
             }
           },
           {
-            "id": "260cda8ea3392b83",
+            "id": "51b23af6f23e2652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apóstolo da Culpa.md",
+                "file": "Máscara do Desespero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apóstolo da Culpa"
+              "title": "Máscara do Desespero"
             }
           },
           {
-            "id": "1bbdc75ed6d6d10a",
+            "id": "4712dc4d5f20715c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luseta.md",
+                "file": "Santa Sombra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luseta"
-            }
-          },
-          {
-            "id": "685b68c6ff664bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Luseta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Luseta"
-            }
-          },
-          {
-            "id": "076f86a0e53c6f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Noite 3 — Noite dos Loucos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noite 3 — Noite dos Loucos"
-            }
-          },
-          {
-            "id": "cfedcf381e95d0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Exegese/Exegese.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exegese"
-            }
-          },
-          {
-            "id": "837d69e02ea470db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Noite 1 — Dia dos Pecadores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noite 1 — Dia dos Pecadores"
-            }
-          },
-          {
-            "id": "0e42ccfec01a97c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inimigos & Boss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inimigos & Boss"
-            }
-          },
-          {
-            "id": "d53317fc74455567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ordem Paranormal — A Exegese.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordem Paranormal — A Exegese"
+              "title": "Santa Sombra"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -329,7 +259,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A Exegese/Exegese.md",
+            "file": "Damião Salles.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -396,35 +326,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d53317fc74455567",
+  "active": "7623d1c46b172493",
   "lastOpenFiles": [
-    "A Exegese.md",
-    "A Exegese/Ordem Paranormal – A Exegese.md",
-    "A Exegese/Exegese.md",
-    "Ordem Paranormal — A Exegese.md",
-    "Campanhas.md",
-    "Noite 1 — Dia dos Pecadores.md",
-    "Rádio Serra Alta.md",
-    "A Exegese/Estagnação.md",
-    "A Exegese/Foco Paranormal.md",
-    "A Exegese/Verdade de Tudo.md",
-    "Arquivos Sentenciados.md",
-    "Inimigos & Boss.md",
-    "Sigilos de Conhecimento.md",
-    "Anátema Paranormal.md",
-    "Lor dos Personagens.md",
-    "Mecânicas e Criações.md",
-    "Sinos de Tenebris.md",
+    "Santa Sombra.md",
+    "Sofia Almeida.md",
+    "Damião Salles.md",
+    "Grupos da Exegese.md",
+    "Corredores Silenciosos.md",
+    "Orfanato Louvado Seja.md",
+    "Máscara do Desespero.md",
     "Derek Hutchins.md",
-    "Sino da Predestinação.md",
-    "Noite 3 — Noite dos Loucos.md",
-    "Luseta.md",
-    "Alice S..md",
-    "Luna Lancaster.md",
+    "Venit.md",
+    "Mecânicas e Criações.md",
+    "Paula Neral.md",
+    "Paula Nearl – A Inesquecíveis.md",
+    "Esquecido.md",
+    "Contaminação da Não Lembrança.md",
+    "Inimigos & Boss.md",
+    "A Membrana.md",
+    "Adaptação Paranormal.md",
+    "Sofia Almeida – A Esquecida.md",
+    "Aurelian Voss.md",
+    "Aurelian Voss – A Verdade.md",
+    "Reina Brian.md",
+    "Reina a Caçadora.md",
+    "Veredito.md",
+    "Ruptura.md",
+    "Anátema Paranormal.md",
+    "Transtornados.md",
     "Lana Lancaster.png",
-    "Noite 2 — Tárde do Sete Pele.md",
-    "Jana 'Luseta'.md",
-    "Apóstolo da Culpa.md",
     "Crescimento de Agressões.png",
     "Sem título 1.base",
     "Sem título.base",

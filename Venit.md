@@ -568,7 +568,7 @@ O Ascendente toca uma Pessoa ou Animal e o amaldiçoa onde o mesmo irá escolher
 
 ___
 
-#### DETALHES
+# DETALHES
 
 ##### EMERGENTES DO ORFANATO
 [[Sofia Almeida]] Kish 

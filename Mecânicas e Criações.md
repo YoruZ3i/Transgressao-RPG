@@ -10,6 +10,7 @@
 ###### Mecânicas sobre Rituais
 - [[Tatuagens Paranormais]]
 - [[Rituais]]
+- [[Criação de Rituais]]
 
 ##### Itens
 A seguir estão itens criados e adaptados
